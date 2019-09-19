@@ -1,4 +1,4 @@
-package com.example.testecontasantander;
+package com.example.testesantander;
 
 import org.junit.Test;
 
